@@ -1,0 +1,118 @@
+*{
+	margin: 0px;
+	padding: 0px;
+	box-sizing: border-box;
+}
+.color_area{
+	height: 80px;
+	width: 100%;
+	float: left;
+	background-image:linear-gradient(purple,skyblue);
+	background-size: 100% 100%;
+	background-repeat: no-repeat;
+}
+.color{
+	float: left;
+	height: 700px;
+	width: 700px;
+	margin-left: 400px;
+}
+.circle{
+	float: left;
+	height: 80%;
+	width: 80%;
+	margin: 10%;
+	border:1px solid yellow;
+	border-radius: 100%;
+	animation-delay: 1s;
+	animation-iteration-count: 5;
+}
+@keyframes circle{
+	0%{background-color: red;}
+	20%{background-color: yellow;}
+	40%{background-color: purple;}
+	60%{background-color: black;}
+	80%{background-color: red;}
+	100%{background-color: white;}
+}
+.circle1{
+	float: left;
+	height: 80%;
+	width: 80%;
+	margin: 10%;
+	border-radius: 100%;
+	animation-delay: 1s;
+	animation-name: circle1;
+	animation-duration: 1s;
+	animation-iteration-count: 5;
+}
+@keyframes circle1{
+	0%{background-color: yellow;}
+		20%{background-color: red;}
+		40%{background-color: black;}
+		60%{background-color: green;}
+		80%{background-color: purple;}
+		100%{background-color: pink;}
+}
+.circle2{
+		height: 80%;
+		width: 80%;
+		float: left;
+		border:1px solid yellow;
+		margin: 10%;
+		border-radius: 100%;
+		animation-delay: 1s;
+		animation-name: circle2;
+		animation-duration: 1s;
+		animation-iteration-count: 5;
+	}
+	
+
+	@keyframes circle2{
+		0%{background-color: hotpink;}
+		20%{background-color: grey;}
+		40%{background-color: yellow;}
+		60%{background-color: black;}
+		80%{background-color: silver;}
+		100%{background-color: purple;}
+	}
+	.circle3{
+		height: 80%;
+		width: 80%;
+		margin: 10%;
+		border:1px solid yellow;
+		border-radius: 100%;
+		animation-name: circle3;
+		animation-duration: 1s;
+		animation-delay: 1s;
+		animation-iteration-count: 5;
+
+	}
+	@keyframes circle3{
+		0%{background-color: yellow;}
+		20%{background-color: grey;}
+		40%{background-color: blue;}
+		60%{background-color: black;}
+		80%{background-color: skyblue;}
+		100%{background-color: red;}
+	}
+	.circle4{
+		height: 80%;
+		width: 80%;
+		float: left;
+		margin: 10%;
+		border:1px solid yellow;
+		border-radius: 100%;
+		animation-name: circle4;
+		animation-duration: 1s;
+		animation-delay: 1s;
+		animation-iteration-count: 5;
+	}
+	@keyframes circle4{
+		0%{background-color: blue;}
+		20%{background-color: violet;}
+		40%{background-color: red;}
+		60%{background-color: pink;}
+		80%{background-color: yellow;}
+		100%{background-color: black;}
+	}
