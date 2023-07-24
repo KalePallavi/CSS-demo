@@ -1,0 +1,256 @@
+*{
+	margin: 0px;
+	padding: 0px;
+}
+.main{
+	height: 650px;
+	width: 100%;
+	background-image: url(water.jpg);
+	background-size: cover;
+
+}
+.nav{
+	height: 70px;
+	width: 100%;
+	background-color: black;
+	float: left;
+}
+.nav1{
+	height: 70px;
+	width: 20%;
+	float: left;
+	color: white;
+	text-align: center;
+	background-color:red;
+
+}
+.nav1 h2{
+	color: white;
+	font-weight: bold;
+	text-align: center;
+	margin-top: 40px;
+}
+.SH{
+	height: 25px;
+	width:20%;
+	float: left;
+	color: white;
+	text-align: center;
+	border-radius: 10px;
+	border:2px solid red;
+	padding:0px;
+	margin-top: 25px;
+	margin-left: 25px;
+	float: left;
+
+}
+.btn{
+	background-color:red;
+	color: white;
+	font-family: Lucida Fax;
+	padding: 2px;
+	margin-left: 50px;
+	margin-top: 25px;
+	font-weight: bold;
+	float: left;	
+}
+.nav2{
+	height: 70px;
+	width: 30%;
+	float: left;
+}
+.ff {
+	height: 40px;
+	width: 10%;
+	border-radius: 50px;
+	background-color:red;
+	font-weight: bold;
+	font-size: 25px;
+	padding:5px;
+	margin-left:100px;
+	margin-top: 10px;
+	}
+
+.ii {
+	height: 40px;
+	width: 10%;
+	border-radius: 50px;
+	background-color:red;
+	font-weight: bold;
+	font-size: 25px;
+	padding:5px;
+	margin-left:10px;
+	margin-top: 10px; 
+}
+
+.ww {
+	height: 40px;
+	width: 10%;
+	border-radius: 50px;
+	background-color:red;
+	font-weight: bold;
+	font-size: 25px;
+	padding:5px;
+	margin-left:10px;
+	margin-top: 10px; 
+}
+
+.vv{
+	height: 40px;
+	width: 10%;
+	border-radius: 50px;
+	background-color:red;
+	font-weight: bold;
+	font-size: 25px;
+	padding:5px;
+	margin-left:10px;
+	margin-top: 10px; 
+}
+.nav3{
+	height: 70px;
+	width: 19%;
+	float: left;
+}
+.img1{
+	height: 50px;
+	width:20%;
+	margin-left: 80px;
+	border-radius: 50%;
+	margin-top: 10px;
+}
+.demo1{
+	height: 600px;
+	width: 20%;
+	float: left;
+	background-color:skyblue;
+}
+.demo2{
+	height: 450px;
+	width: 26%;
+	float: left;
+	border-right:2px solid red;
+	border-left:2px solid red;
+	border-top:2px solid red;
+	border-bottom:2px solid red;
+}
+.demo3{
+	height: 450px;
+	width: 26%;
+	float: left;
+	border-right:2px solid red;
+	border-left:2px solid red;
+	border-top:2px solid red;
+	border-bottom:2px solid red;
+}
+.demo4{
+	height: 450px;
+	width: 26%;
+	float: left;
+	border-right:2px solid red;
+	border-left:2px solid red;
+	border-top:2px solid red;
+	border-bottom:2px solid red;
+}
+.demo2 img{
+	height: 150px;
+	width: 50%;
+	border-radius: 50%;
+	margin-left: 70px;
+	margin-top: 10px;
+}
+.demo2 h2{
+	color:purple;
+	text-align: center;
+	font-weight: bold;
+}
+.demo2 p{
+	color:orange;
+	font-size: 20px;
+	text-align: center;
+	font-weight: bold;
+}
+.demo3 img{
+	height: 150px;
+	width: 50%;
+	border-radius: 50%;
+	margin-left: 70px;
+	margin-top: 10px;
+}
+.demo3 h2{
+	color:purple;
+	text-align: center;
+	font-weight: bold;
+}
+.demo3 p{
+	color:orange;
+	font-size: 20px;
+	text-align: center;
+	font-weight: bold;
+}
+.demo4 img{
+	height: 150px;
+	width: 50%;
+	border-radius: 50%;
+	margin-left: 70px;
+	margin-top: 10px;
+}
+.demo4 h2{
+	color:purple;
+	text-align: center;
+	font-weight: bold;
+}
+.demo4 p{
+	color:orange;
+	font-size: 20px;
+	text-align: center;
+	font-weight: bold;
+}
+.Area{
+	height: 150px;
+	width: 26.5%;
+	float: left;
+	background-color:purple;
+	
+}
+.Area h2{
+	color: white;
+	text-align: center;
+	line-height:2;
+}
+.Area h4{
+	color: white;
+	text-align: center;
+	line-height: 2;
+}
+.Area1{
+	height: 150px;
+	width: 26.5%;
+	float:left;
+	background-color:black;
+}
+.Area2{
+	height: 150px;
+	width: 26.5%;
+	float: left;
+	background-color:green;
+}
+.Area1 h2{
+	color: white;
+	text-align: center;
+	line-height:2;
+}
+.Area1 h4{
+	color: white;
+	text-align: center;
+	line-height: 2;
+}
+.Area2 h2{
+	color: white;
+	text-align: center;
+	line-height: 2;
+}
+.Area2 h4{
+	color: white;
+	text-align: center;
+	line-height: 2;
+}
